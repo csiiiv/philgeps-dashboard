@@ -9,9 +9,6 @@ yarn-error.log*
 # dist/
 
 # Exclude Parquet files for now (too large for GitHub)
-*.parquet
-dist/parquet/
-public/parquet/
 
 # Environment variables
 .env
