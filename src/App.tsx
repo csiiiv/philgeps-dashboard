@@ -1,4 +1,3 @@
-import React from 'react'
 import { DataExplorer } from './components/DataExplorer'
 import { colors, typography, spacing } from './design-system'
 import './App.css'
